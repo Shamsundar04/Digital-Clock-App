@@ -33,7 +33,4 @@ This app displays the **current time** (hours, minutes, seconds) in **12-hour fo
 - CSS3 – For styling (customizable)  
 - JavaScript (Vanilla JS) – For real-time logic and DOM manipulation  
 
----
-
-#Project Structure
-
+--------------------------------------------------------------------
